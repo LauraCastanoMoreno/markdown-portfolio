@@ -1,5 +1,3 @@
-# This is a list:
-- First item
-- Second item
-- Third item
-- Fourth item
+
+[GitHub](http://github.com)
+
